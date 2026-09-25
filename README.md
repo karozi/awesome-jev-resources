@@ -28,6 +28,7 @@ Jev is TypeSafe's System One model for fast, structured decisions. Give it infor
 - **[devagrawal09/jev-review](https://github.com/devagrawal09/jev-review)** — Jev code review for Git diffs and codebases, using structured decisions to select evidence, assess risks, and score severity.
 - **[thruwire/foreman](https://github.com/thruwire/foreman)** — Jev supervisor for Codex and OpenCode agents that assesses progress, tests, and completion to steer, retry, verify, or stop work.
 - **[superagents-lab/jev-search](https://github.com/superagents-lab/jev-search)** — Jev web search app that selects sources, queries, and time ranges, then ranks Search1API results by relevance.
+- **[socai-io/jev-social](https://github.com/socai-io/jev-social)** — Jev social media research agent using socai to search Instagram, TikTok, and LinkedIn and collect source-linked evidence.
 - **[droidrun/mobile-jev](https://github.com/droidrun/mobile-jev)** — Jev Android automation agent that selects app actions through Mobilerun, with a live dashboard, CLI, and execution traces.
 - **[gargpratyush/jev-router](https://github.com/gargpratyush/jev-router)** — Jev model router for Claude Code and OpenAI Codex that selects a model for each new turn based on task complexity.
 
