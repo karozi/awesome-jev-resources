@@ -7,6 +7,7 @@ Jev is TypeSafe's System One model for fast, structured decisions. Give it infor
 ## Start here
 
 1. **[What is Jev? Costs, examples, and getting started — Karo Zieminski, Product with Attitude](https://karozieminski.substack.com/p/what-is-jev-cost)** — A practical introduction to Jev, how it differs from LLMs, and what you can build with it.
+2. **[Jev and AI agent security — Product with Attitude](https://karozieminski.substack.com/p/jev-ai-agent-security)** — How to separate Jev's risk judgments from permissions, policy enforcement, and human review in AI agent workflows.
 
 ## Official documentation
 
