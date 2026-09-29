@@ -40,6 +40,7 @@ Jev is TypeSafe's System One model for fast, structured decisions. Give it infor
 ### Local decision model alternatives
 
 - **[SemIf (formerly OpenJev)](https://github.com/TheoLeeCJ/SemIf-OpenJev)** — Independent, open-source Jev-style decision interface for running typed AI decisions locally with open models.
+- **[feder-cr/jev](https://github.com/feder-cr/jev)** — Open-source, Jev-compatible alternative for yes/no decisions that runs fully offline on a laptop CPU with llama.cpp; only yes/no questions are supported today.
 
 ## Contribute
 
