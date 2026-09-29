@@ -15,6 +15,10 @@ Jev is TypeSafe's System One model for fast, structured decisions. Give it infor
 - **[Question types: Choice, Score, and Noul](https://docs.typesafe.ai/primitives)** — Define the decisions you need and understand the structured answers.
 - **[Confidence](https://docs.typesafe.ai/confidence)** — Understand confidence and how to use it when deciding whether to act on an answer.
 
+## Research and ecosystem analysis
+
+- **[Jev in the Wild](https://arxiv.org/abs/2609.30216)** — A data-driven analysis of 2,170 public GitHub Jev projects, covering early ecosystem growth, application domains, and decision-use patterns.
+
 ## Community projects and demos
 
 - **[Jevable](https://jevable.com/)** — Discover what people are building with Jev. Browse demos and examples for inspiration.
