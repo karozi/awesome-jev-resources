@@ -19,6 +19,7 @@ Jev is TypeSafe's System One model for fast, structured decisions. Give it infor
 ## Research and ecosystem analysis
 
 - **[Jev in the Wild](https://arxiv.org/abs/2609.30216)** — A data-driven analysis of 2,170 public GitHub Jev projects, covering early ecosystem growth, application domains, and decision-use patterns.
+- **[Is Jev open source?](https://madewithjev.com/open-source-jev)** — Explains what TypeSafe keeps closed and lists 54 open models and reproductions that answer typed questions locally, with the sizes and speeds their authors published.
 
 ## Community projects and demos
 
